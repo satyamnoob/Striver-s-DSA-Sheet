@@ -8,7 +8,7 @@ EEEEE
 
 */
 
-public class problem16 {
+public class pattern16 {
     public static void main(String[] args) {
         char ch = 'A';
         for (int i = 0; i < 5; i++) {

@@ -8,7 +8,7 @@
 
 */
 
-public class problem15 {
+public class pattern15 {
   public static void main(String[] args) {
     for (int i = 0; i < 5; i++) {
       char ch = 'A';
